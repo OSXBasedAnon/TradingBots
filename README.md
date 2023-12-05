@@ -59,4 +59,4 @@ Adjust the configuration settings in the script to customize the bot's behavior:
 This trading bot is for educational and experimental purposes only. Use it at your own risk. The bot's performance may vary, and it's essential to understand the cryptocurrency market dynamics before using it in a real trading environment.
 
 Happy trading!
-cryptoblogger.xyz
+[cryptoblogger.xyz](https://www.cryptoblogger.xyz/)https://www.cryptoblogger.xyz/
